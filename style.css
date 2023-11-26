@@ -1,0 +1,24 @@
+body{
+    border: 1px solid;
+    margin: 5px;
+}
+#box1 {
+    border: 5px dotted;
+    width: 250px;
+    font-size: 22px;
+    background-color: red ;
+    margin: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    padding: 45px;
+
+}
+
+#box2 {
+    border: 5px solid;
+    width: 250px;
+    font-size: 30px;
+    background-color: brown;
+
+    padding: 28px;
+}
